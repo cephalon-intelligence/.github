@@ -1,5 +1,12 @@
-The CIO is an open source intelligence organization. It is maintained and developed by a student, and is not affiliated with the US Government. The project is still in its infancy, and accordingly it is expected to continuously evolve.
+# Welcome to the CIO
 
-To learn more, visit the [wiki](https://thecio.wiki).
+## Description
 
-If you are interested in sponsoring the project, you can visit the [sponsors](https://thecio.wiki/sponsors) page or subscribe to the [newsletter](https://www.cephalon.io).
+The CIO is an open source intelligence organization. It's still in its infancy, and accordingly is expected to continuously evolve. To learn more, visit the [wiki](https://thecio.wiki).
+
+## Support
+If you would like to support the project, you can do so by subscribing to the [Ghost](https://www.cephalon.io) newsletter, or through one of the methods listed on the [sponsors]() page.
+
+
+## Disclaimer
+<p style="color: red;">This organization is not affiliated with the US Government. It was created and is managed by a college student.</p>
