@@ -5,6 +5,7 @@
 - cephalon (squarespace), cephalon.io
 - cephalon AWS dashboard, intel.cephalon.io
 - cephalon docs (mkdocs), cephalon-intelligence.github.io
+- obsidian site to browse ontology of indices, (cephalontology.io)
 
 ## CIO
 - cio wiki (obsidian), thecio.wiki
